@@ -9,7 +9,7 @@ function Footer() {
                 <div className='footer-content-left'>
                     <img src={assets.logo}></img>
                     <p>lrm50</p>
-                    <div className='footer-social-icon'>
+                    <div className='footer-social-icons'>
                         <img src={assets.facebook_icon}></img>
                         <img src={assets.twitter_icon}></img>
                         <img src={assets.linkedin_icon}></img>
